@@ -2,7 +2,7 @@
   "name": "redux-counter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://reactsc.github.io/redux-counter/ ",
+  "homepage": "https://reactsc.github.io/redux-counter/",
   "dependencies": {
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
